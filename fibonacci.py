@@ -29,3 +29,4 @@ else:
         count += 1
 
         print(t)
+time.sleep(10)
