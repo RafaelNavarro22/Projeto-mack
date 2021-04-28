@@ -26,5 +26,5 @@ while contador == 1 :
             print('operaçao invalida, digite seus números novamente e tente de novo\n\n\n')
             sin=2
 else :
-    print('obrigado por usar a calculadora do rafael, meu tia é 32150032, espero ter uma boa nota! ')
+    print('obrigado por usar a calculadora do rafael, meu tia é 32150032, espero ter uma boa nota!\n\n ')
     time.sleep(10)
